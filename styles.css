@@ -1,6 +1,8 @@
 * {
   font-family: sans-serif;
   scroll-behavior: smooth;
+    box-sizing: border-box;
+
 }
 
 nav {
@@ -164,7 +166,7 @@ tbody {
 #addmission {
   background-color: #faf9f9;
   text-align: center;
-  width: 80%;
+  width: 100%;
   padding-left: 7rem;
   padding-right: 7rem;
   padding-top: 2em;

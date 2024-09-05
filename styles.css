@@ -1,0 +1,215 @@
+* {
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+
+nav {
+  width: 100%;
+  background-color: #f3f3f5;
+  padding-bottom: 2rem;
+}
+nav img {
+  margin-left: 10rem;
+  width: 5rem;
+  padding-right: 6rem;
+}
+nav a {
+  text-decoration: none;
+  font-size: 0.8rem;
+  color: rgb(83, 81, 81);
+  font-weight: bold;
+  margin-right: 2rem;
+}
+/* sec-one */
+.sec-one {
+  background-color: #f3f3f5;
+}
+.sec-one table {
+  width: 70%;
+  margin-left: 10rem;
+}
+.sec-one p {
+  font-size: 0.8rem;
+  color: rgb(83, 81, 81);
+}
+.but1 {
+  background-color: rgb(232, 91, 40);
+  color: white;
+  font-size: 1rem;
+  width: 12rem;
+  height: 2rem;
+  border: 0px;
+  border-radius: 4px;
+}
+
+/* sec-two */
+.sec-two {
+  text-align: center;
+  background-color: #f7f6f6;
+  width: 100%;
+}
+.sec-two p {
+  font-size: 0.8rem;
+  color: rgb(83, 81, 81);
+}
+.mark {
+  color: rgb(133, 197, 38);
+}
+main section h4 {
+  margin: 4rem 0;
+}
+
+/* sec-three */
+.sec-three {
+  text-align: center;
+  width: 70%;
+  margin-left: 10rem;
+}
+.sec-three p {
+  font-size: 0.8rem;
+  color: rgb(83, 81, 81);
+}
+
+/* why section */
+#why {
+  background-color: #f3f3f5;
+  text-align: center;
+}
+#why h3 {
+  margin-bottom: -40px;
+}
+table {
+  width: 60%;
+  margin-left: 1.5rem;
+  text-align: center;
+}
+tbody {
+  margin-left: 10rem;
+  text-align: start;
+}
+.div1 {
+  width: 18rem;
+  margin-right: 2rem;
+}
+.div1 i {
+  margin-left: 6rem;
+}
+.div1 p {
+  font-size: 0.8rem;
+  color: rgb(83, 81, 81);
+}
+.p {
+  text-align: center;
+}
+.butt {
+  margin-left: 4rem;
+}
+
+/* new section curriculum*/
+#curriculum {
+  text-align: center;
+  padding-bottom: 4rem;
+}
+.table2 {
+  width: 70%;
+  margin: 0px 8rem;
+}
+.table2 p {
+  font-size: 0.7rem;
+  color: rgb(83, 81, 81);
+}
+.table2 b {
+  color: rgb(53, 53, 157);
+}
+.table2 small {
+  font-size: 0.6rem;
+  color: rgb(93, 148, 11);
+}
+.td1 {
+  width: 35%;
+  background-color: rgb(239, 247, 247);
+  text-align: center;
+}
+.td2 {
+  width: 9%;
+}
+/* mentors section */
+#team {
+  background-color: #f3f3f5;
+  text-align: center;
+  margin-bottom: 4rem;
+}
+#team img {
+  width: 10rem;
+}
+.td3 {
+  text-align: center;
+  margin-right: 4rem;
+}
+/* employer */
+#employer {
+  text-align: center;
+  width: 70%;
+  height: 300px;
+  margin-left: 10rem;
+}
+#employer p {
+  font-size: 0.8rem;
+}
+#employer img {
+  width: 6rem;
+  margin-right: 10rem;
+}
+/* addmission */
+#addmission {
+  background-color: #faf9f9;
+  text-align: center;
+  width: 80%;
+  padding-left: 7rem;
+  padding-right: 7rem;
+  padding-top: 2em;
+}
+#addmission p {
+  font-size: 0.6rem;
+}
+#addmission b {
+  font-size: 0.7rem;
+}
+.table3 {
+  width: 90%;
+  margin-top: 1rem;
+  margin-left: 4rem;
+}
+/* price section */
+#price {
+  text-align: center;
+  padding-top: 3rem;
+}
+#price p {
+  font-size: 0.6rem;
+}
+.table4 {
+  width: 40%;
+  margin-left: 19em;
+}
+/* faq section */
+#faq {
+  text-align: center;
+}
+#faq p {
+  font-size: 0.7rem;
+  color: rgb(5, 31, 80);
+}
+/* footer */
+footer {
+  width: 100%;
+  text-align: center;
+  background-color: #2f4744;
+
+  height: 3rem;
+  padding-top: 2rem;
+}
+footer a {
+  color: #faf9f9;
+  text-decoration: none;
+}
